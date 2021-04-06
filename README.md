@@ -1,27 +1,25 @@
 # _Skye's Portfolio Page_
+(https://github.com/SkyeGittens/portfoliolanding)
 
 #### _This project is a brief explanation of my moral character and current projects in development. Subject to change._
 
-#### By _**I am the sole creator of these current projects.**_
+#### By _**Skye Gittens.**_
 
 ## These are the current methods and tools I have learned to use in the past few weeks.
 
 * _HTML_
 * _CSS_
 * _Markdown_
-* _Bootstrap_
 
 ## My Portfolio at a glance!
 
 _On this portfolio page, you will see a few different projects that I have worked on since i started my journey at <strong>Epicodus</strong>! It will include a description about me, my homelife, and what I hope to achieve in my Career. It will contain links to some furry friends, and my inspirations. This of course is subject to change, as well as this about me. _
 
-## Links to my projects
+## Installation Instructions
 
-* _
-* _
-* _
-* _
-* _
+* Clone this repository from the link provided in the top of the readme
+* Navigate to the top level of the directory. 
+* Open index.html in your browser
 
 ## Known Bugs
 
@@ -29,7 +27,7 @@ _On this portfolio page, you will see a few different projects that I have worke
 
 ## License
 
-_This is my own personal portfolio, as Such i own all content and do not authorize the right to own any content herein, but tips are always appreciated._
+_MIT License_
 
 ## Contact Information
 
