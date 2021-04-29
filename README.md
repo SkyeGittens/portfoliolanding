@@ -1,5 +1,5 @@
 # _Skye's Portfolio Page_
-(https://github.com/SkyeGittens/portfoliolanding)
+[GitHub link](https://skyegittens.github.io/portfoliolanding/)
 
 #### _This project is a brief explanation of my moral character and current projects in development. Subject to change._
 
